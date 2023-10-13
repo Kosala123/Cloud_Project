@@ -16,6 +16,7 @@ module.exports = {
         656:"656px",
         880:"880px",
         508:"508px",
+        100: "100%"
       },
       height: {
         80:"80px",
@@ -45,6 +46,7 @@ module.exports = {
         "2xl":"2024px",
       },
       colors: {
+        //headingColor:"#FF5303",
         headingColor:"#FF5303",
         textColor:"#515151",
         primary:"#f3f3f3",
